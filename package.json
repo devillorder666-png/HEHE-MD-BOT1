@@ -1,0 +1,16 @@
+{
+  "name": "hehe-md-bot1",
+  "version": "1.0.0",
+  "description": "Multi-device WhatsApp Bot with Word Chain Game",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.3",
+    "pino": "^9.0.0",
+    "express": "^4.19.2",
+    "axios": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
